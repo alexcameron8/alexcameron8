@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=alexcameron8&color=blue)
 
-- 🎓 Software Engineer Graduate from Carleton University
+- 🎓 I am a Software Engineering recent graduate from Carleton University
+- 📚 Welcome to my Github. Check out some of my projects! [Personal Portfolio](www.acameron.tech)
 - 📫 How to reach me: alex8cameron@gmail.com
 
 <a href="https://www.linkedin.com/in/alexcameron8/">
